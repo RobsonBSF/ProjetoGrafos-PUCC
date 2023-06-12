@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307371113612",
+    "project_id": "projetografos-4654c",
+    "storage_bucket": "projetografos-4654c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307371113612:android:23bf7f0bb68a54dd574fa9",
+        "android_client_info": {
+          "package_name": "com.example.projetografos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307371113612-1latphgq17rbnim1np3gu074ii59itnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lIzt8WoOeshVmXYKfg90RRUzhgO2MJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307371113612-1latphgq17rbnim1np3gu074ii59itnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
