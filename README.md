@@ -1,4 +1,4 @@
-# Projeto Grafos - PUCC
+# ProjetoGrafos - PUCC
 
 ## Visão Geral
 
